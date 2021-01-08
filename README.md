@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/eclipse/elk-models)
+
 # ELK Models Repository
 
 This repository holds test models for the [Eclipse Layout Kernel](https://github.com/eclipse/elk) project.
